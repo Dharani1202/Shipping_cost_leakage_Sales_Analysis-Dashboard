@@ -26,4 +26,4 @@ This Power BI project analyzes shipping cost data to identify potential leakages
 - Observed customer-wise shipping cost patterns to uncover inefficiencies.
 
 ## View Dashboard
-- <a href
+- <a href https://github.com/Dharani1202/Shipping_cost_leakage_Sales_Analysis-Dashboard/blob/main/Shipping%20Cost%20Leakage%20Analysis_%20Dashboard.png
